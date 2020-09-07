@@ -1,12 +1,12 @@
 //########## ヘッダーファイル読み込み ##########
 #include "DxLib.h"
 
-#define GAME_WIDTH			1280	//画面の横の大きさ
-#define GAME_HEIGHT			720	//画面の縦の大きさ
+#define GAME_WIDTH			960	//画面の横の大きさ
+#define GAME_HEIGHT			640	//画面の縦の大きさ
 #define GAME_COLOR			32	//画面のカラービット
 
 #define GAME_WINDOW_BAR		0	//タイトルバーはデフォルトにする
-#define GAME_WINDOW_NAME	"GAME TITLE"	//ウィンドウのタイトル
+#define GAME_WINDOW_NAME	"Dxlib_Movie"	//ウィンドウのタイトル
 
 //MOVIEフォルダと、mp4ファイルも、追加して下さい
 #define MOVIE_PATH			".\\MOVIE\\earth.mp4"	//動画のパス
