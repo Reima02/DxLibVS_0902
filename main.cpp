@@ -6,7 +6,7 @@
 #define GAME_COLOR			32	//画面のカラービット
 
 #define GAME_WINDOW_BAR		0	//タイトルバーはデフォルトにする
-#define GAME_WINDOW_NAME	"Dxlib_Movie"	//ウィンドウのタイトル
+#define GAME_WINDOW_NAME	"Dxlib_MOVIE"	//ウィンドウのタイトル
 
 //MOVIEフォルダと、mp4ファイルも、追加して下さい
 #define MOVIE_PATH			".\\MOVIE\\earth.mp4"	//動画のパス
